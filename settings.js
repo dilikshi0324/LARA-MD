@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "uzgUjSjB#Rgp6VwxJ4ul5w9eK9gnbkJBt1euCnwdZ
 PREFIX: process.env.PREFIX || ".",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 STATUES_REPLY: process.env.STATUES_REPLY || "false",
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
